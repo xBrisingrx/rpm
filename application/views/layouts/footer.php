@@ -1,25 +1,6 @@
 <footer>
         <div class="g-color-gray-dark-v5 g-theme-bg-gray-dark-v3">
           <div class="container">
-            <div class="text-center text-md-left g-py-50">
-              <form>
-                <div class="g-width-780 mx-auto">
-                  <div class="row">
-                    <div class="col-md-5 g-mb-30 g-mb-0--lg">
-                      <input id="inputGroup2_1" class="form-control h-100 form-control-lg g-font-size-default g-color-gray-dark-v5 g-placeholder-inherit g-bg-transparent g-bg-transparent--focus g-theme-brd-gray-dark-v6 g-rounded-30 g-px-15 g-py-13" type="text" placeholder="Login">
-                    </div>
-
-                    <div class="col-md-5 g-mb-30 g-mb-0--lg">
-                      <input id="inputGroup2_2" class="form-control h-100 form-control-lg g-font-size-default g-color-gray-dark-v5 g-placeholder-inherit g-bg-transparent g-bg-transparent--focus g-theme-brd-gray-dark-v6 g-rounded-30 g-px-15 g-py-13" type="password" placeholder="Password">
-                    </div>
-
-                    <div class="col-md-2 text-md-right text-lg-left">
-                      <button class="btn btn-lg text-uppercase u-btn-primary g-font-weight-700 g-font-size-12 g-rounded-30 g-px-25 g-py-13 mb-0" type="submit">Log In</button>
-                    </div>
-                  </div>
-                </div>
-              </form>
-            </div>
 
             <div class="text-center text-md-left g-brd-top g-brd-gray-dark-v2 g-py-30">
               <div class="row">
@@ -164,12 +145,16 @@
     <script src="<?php echo base_url('assets/js/helpers/hs.height-calc.js')?>"></script>
     <script src="<?php echo base_url('assets/js/components/hs.carousel.js')?>"></script>
     <script src="<?php echo base_url('assets/js/components/hs.go-to.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/components/gmap/hs.map.js')?>"></script>
 
     <!-- JS Customization -->
     <script src="<?php echo base_url('assets/js/custom.js')?>"></script>
 
     <!-- JS Plugins Init. -->
     <script>
+      function initMap() {
+        $.HSCore.components.HSGMap.init('.js-g-map');
+      }
       $(document).on('ready', function () {
         // initialization of carousel
         $('#carousel5').on('click', '.js-thumb', function (e) {
@@ -201,5 +186,6 @@
         });
       });
     </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback=initMap" async></script>
   </body>
 </html>

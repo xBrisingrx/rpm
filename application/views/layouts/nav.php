@@ -24,16 +24,7 @@
                       <a href="#about" class="nav-link p-0">Nosotros</a>
                     </li>
                     <li class="nav-item g-mx-10--lg g-mx-15--xl g-my-7 g-mb-0--lg">
-                      <a href="#services" class="nav-link p-0">Services</a>
-                    </li>
-                    <li class="nav-item g-mx-10--lg g-mx-15--xl g-my-7 g-mb-0--lg">
-                      <a href="#ourProjects" class="nav-link p-0">Our projects</a>
-                    </li>
-                    <li class="nav-item g-mx-10--lg g-mx-15--xl g-my-7 g-mb-0--lg">
-                      <a href="#testimonials" class="nav-link p-0">Testomonials</a>
-                    </li>
-                    <li class="nav-item g-mx-10--lg g-mx-15--xl g-my-7 g-mb-0--lg">
-                      <a href="#bestOffers" class="nav-link p-0">Best offers</a>
+                      <a href="#products" class="nav-link p-0">Productos</a>
                     </li>
                     <li class="nav-item g-ml-10--lg g-ml-15--xl g-my-7 g-mb-0--lg">
                       <a href="#contact" class="nav-link p-0">Contacto</a>
