@@ -2,93 +2,12 @@
         <div class="g-color-gray-dark-v5 g-theme-bg-gray-dark-v3">
           <div class="container">
 
-            <div class="text-center text-md-left g-brd-top g-brd-gray-dark-v2 g-py-30">
-              <div class="row">
-                <div class="col-md-12 col-lg-4 g-mb-25 g-mb-0--lg">
-                  <h2 class="text-uppercase g-font-weight-700 g-font-size-default g-color-white g-mb-15">Text widget</h2>
-                  <p class="g-mb-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae est lorem. Aenean imperdiet nisi a dolor condimentum, id ullamcorper lacus vestibulum. Praesent pulvinar gravida. Aenean lobortis ante ac porttitor eleifend.</p>
-                </div>
-
-                <div class="col-sm-6 col-lg-2 g-mb-25 g-mb-0--lg">
-                  <h2 class="text-uppercase g-font-weight-700 g-font-size-default g-color-white g-mb-15">Categories</h2>
-                  <ul class="list-unstyled g-mb-30 g-mb-0--md">
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Proin vitae est lorem</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Aenean imperdiet nisi</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Praesent pulvinar gravida</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Integer commodo est</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="col-sm-6 col-lg-2 g-mb-25 g-mb-0--lg">
-                  <h2 class="text-uppercase g-font-weight-700 g-font-size-default g-color-white g-mb-15">Customer Support</h2>
-                  <ul class="list-unstyled g-mb-30 g-mb-0--md">
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Vivamus egestas sapien</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Sed convallis nec enim</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Pellentesque a tristique risus</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Nunc vitae libero lacus</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="col-sm-6 col-lg-2">
-                  <h2 class="text-uppercase g-font-weight-700 g-font-size-default g-color-white g-mb-15">Top Link</h2>
-                  <ul class="list-unstyled g-mb-30 g-mb-0--md">
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Pellentesque a tristique risus</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Nunc vitae libero lacus</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Praesent pulvinar gravida</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Integer commodo est</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="col-sm-6 col-lg-2">
-                  <h2 class="text-uppercase g-font-weight-700 g-font-size-default g-color-white g-mb-15">Useful Links</h2>
-                  <ul class="list-unstyled g-mb-30 g-mb-0--md">
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Praesent pulvinar gravida</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Integer commodo est</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Praesent pulvinar gravida</a>
-                    </li>
-                    <li class="g-mb-10">
-                      <a class="g-color-gray-dark-v5" href="#">Integer commodo est</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-
             <div class="text-center text-md-left g-brd-top g-brd-gray-dark-v2 g-py-40">
               <div class="row">
                 <div class="col-md-6 d-flex align-items-center g-mb-15 g-mb-0--md">
                   <p class="w-100 mb-0">
-                    &copy; 2019 All right reserved. Development by
-                    <a class="g-font-weight-600 g-color-white" href="#">HTML Stream</a>
+                    &copy; <?php echo date('Y') ?> Todos los derechos reservado 
+                    <a class="g-font-weight-600 g-color-white" href="#">Mauro Sampaoli soluciones informáticas</a>
                   </p>
                 </div>
 
@@ -98,7 +17,7 @@
                       <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="#"><i class="fa fa-twitter"></i></a>
                     </li>
                     <li class="list-inline-item g-mr-10">
-                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="#"><i class="fa fa-pinterest-p"></i></a>
+                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="#"><i class="fa fa-instagram"></i></a>
                     </li>
                     <li class="list-inline-item g-mr-10">
                       <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="#"><i class="fa fa-facebook"></i></a>
