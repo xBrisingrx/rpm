@@ -3,7 +3,7 @@
         <div class="container">
           <div class="u-heading-v8-2 g-mb-85">
             <h2 class="h1 text-uppercase u-heading-v8__title g-font-weight-700 g-font-size-26 g-color-gray-dark-v1 g-mb-25">Contactanos</h2>
-            <p class="mb-0">Si queres comunicarte con nosotros podes hacerlo enviandonos un email completando el siguiente formulario:</p>
+            <p class="mb-0">Si queres comunicarte podes hacerlo enviandonos un email completando el siguiente formulario:</p>
           </div>
 
           <div class="row">
@@ -26,7 +26,7 @@
                     <div class="col-sm-6 g-brd-left g-brd-bottom g-theme-brd-gray-light-v3 g-px-15 g-py-25">
                       <i class="icon-line icon-envelope-letter d-inline-block g-font-size-50 g-color-primary g-mb-30"></i>
                       <h3 class="text-uppercase g-font-size-11 g-line-height-1 g-theme-color-gray-light-v2 mb-0">Email</h3>
-                      <a class="g-font-size-11 g-color-gray-dark-v1" href="mailto:info@unify.com"><strong>info@cumminscrv.com.ar</strong></a>
+                      <a class="g-font-size-11 g-color-gray-dark-v1" href="mailto:info@cumminscrv.com.ar"><strong>info@cumminscrv.com.ar</strong></a>
                     </div>
 
                     <div class="col-sm-6 g-brd-left g-brd-bottom g-theme-brd-gray-light-v3 g-px-15 g-py-25">
