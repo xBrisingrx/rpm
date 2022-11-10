@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>Cummins | Web de ejemplo</title>
+    <title>Cummins | Concepto de Web</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
