@@ -34,39 +34,35 @@
                  }
                }]'>
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/200x150/img1.png')?>" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/clients/burgward.jpg')?>" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/200x150/img2.png')?>" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/clients/burgward_minera.jpg')?>" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/200x150/img3.png')?>" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/clients/calfrac.jpg')?>" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/200x150/img4.png')?>" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/clients/edenred.jpg')?>" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/200x150/img5.png')?>" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/clients/pecom.jpg')?>" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/200x150/img6.png')?>" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/clients/slb.jpg')?>" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/200x150/img7.png')?>" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/clients/wheatherford.jpg')?>" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/200x150/img8.png')?>" alt="Image Description">
-            </div>
-
-            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/200x150/img9.png')?>" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url('assets/img/clients/yamana_gold.jpg')?>" alt="Image Description">
             </div>
           </div>
         </div>
