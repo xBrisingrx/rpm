@@ -17,10 +17,15 @@
                       <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="#"><i class="fa fa-twitter"></i></a>
                     </li>
                     <li class="list-inline-item g-mr-10">
-                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="#"><i class="fa fa-instagram"></i></a>
+                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" 
+                        href="https://instagram.com/revolution.parts.motors"><i class="fa fa-instagram"></i></a>
                     </li>
                     <li class="list-inline-item g-mr-10">
-                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="#"><i class="fa fa-facebook"></i></a>
+                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" 
+                        href="https://www.facebook.com/people/Concesionario-oficial-Cummins-RPM-SA/100087060410183/"
+                        target="_blank">
+                        <i class="fa fa-facebook"></i>
+                      </a>
                     </li>
                     <li class="list-inline-item">
                       <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="#"><i class="fa fa-linkedin"></i></a>
