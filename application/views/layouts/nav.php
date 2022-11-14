@@ -35,6 +35,13 @@
 
                 <!-- <a class="btn btn-lg text-uppercase u-btn-primary g-font-weight-700 g-font-size-12 g-rounded-30 g-px-40 g-py-15" href="#">Log in</a> -->
               </div>
+              <div class="navbar-brand u-header__logo g-mr-30 d-none d-sm-none d-md-none d-lg-block ">
+                <img class="img-fluid u-header__logo-img u-header__logo-img--main" src="assets/img/logo_rpm_borde.png" alt="Image Description">
+              </div>
+              <!-- <a href="#" class="navbar-brand u-header__logo g-width-130 g-mr-30"
+                 data-type="static">
+                
+              </a> -->
 
               <!-- Responsive Toggle Button -->
               <button class="navbar-toggler btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-5 g-right-0" type="button"
