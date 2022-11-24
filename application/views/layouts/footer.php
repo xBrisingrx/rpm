@@ -14,9 +14,6 @@
                 <div class="col-md-6">
                   <ul class="list-inline float-md-right mb-0">
                     <li class="list-inline-item g-mr-10">
-                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="#"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li class="list-inline-item g-mr-10">
                       <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" 
                         href="https://instagram.com/revolution.parts.motors"><i class="fa fa-instagram"></i></a>
                     </li>
@@ -28,7 +25,7 @@
                       </a>
                     </li>
                     <li class="list-inline-item">
-                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="#"><i class="fa fa-linkedin"></i></a>
+                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="https://wa.me/1xxxxx"><i class="fa fa-whatsapp"></i></a>
                     </li>
                   </ul>
                 </div>

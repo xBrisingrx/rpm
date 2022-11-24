@@ -3,7 +3,7 @@
         <div class="container-fluid">
           <div class="row text-center text-md-left">
             <div class="col-sm-6 col-lg-4 g-theme-bg-gray-dark-v1 px-0">
-              <img class="img-fluid w-100" src="<?php echo base_url('assets/img/content/about_02.jpg') ?>" alt="Image description">
+              <img class="img-fluid w-100" src="<?php echo base_url('assets/img/content/rpm_local.jpg') ?>" alt="Image description">
 
               <div class="g-py-50 g-px-15 g-pa-50--md">
                 <h3 class="text-uppercase g-font-weight-800 g-font-size-default g-color-white g-mb-15">Revolution Parts Motors S.A</h3>
